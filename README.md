@@ -1,6 +1,6 @@
-# 🐍 CyberBro_OS (CyberSnakeOS)
+# 🐍 CyberBroOS (CyberSnakeOS)
 
-**CyberBro_OS** — bu C va Assembly’da yozilgan minimal experimental Operating System bo‘lib, ichida Snake o‘yini ishlaydi.  
+**CyberBroOS** — bu C va Assembly’da yozilgan minimal experimental Operating System bo‘lib, ichida Snake o‘yini ishlaydi.  
 Loyiha — OS development, low-level programming va kernel asoslarini amaliy o‘rganish maqsadida yaratilgan.
 
 > "Build your own OS to truly understand computers." — CyberBro
@@ -17,7 +17,7 @@ Minimal OS yaratishdan asosiy maqsad:
 - Keyboard interrupt handling o‘rganish
 - OS architecture va low-level cybersecurity bilimlarini mustahkamlash
 
-Bu loyiha keyinchalik **CyberBro_OS** nomli advanced security-focused custom OS yaratish yo‘lidagi birinchi bosqich hisoblanadi.
+Bu loyiha keyinchalik **CyberBroOS** nomli advanced security-focused custom OS yaratish yo‘lidagi birinchi bosqich hisoblanadi.
 
 ---
 
