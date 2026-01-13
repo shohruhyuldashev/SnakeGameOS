@@ -56,16 +56,16 @@ Ya’ni bu — **to‘liq standalone ishlaydigan bare-metal OS ichidagi Snake ga
 ### Boot ekrani
 ![Boot Screen](screenshots/boot.png)
 
+### Welcome screen
+![Welcome](screenshots/welcome.png)
+
 ### O‘yin jarayoni
 ![Gameplay](screenshots/gameplay.png)
 
 ### Game Over
 ![Game Over](screenshots/gameover.png)
 
-### Welcome screen
-![Welcome](screenshots/welcome.png)
 
-> 📂 Yuqoridagi fayl nomlari bo‘yicha rasmlarni `screenshots/` papkaga joylang.
 
 ---
 
