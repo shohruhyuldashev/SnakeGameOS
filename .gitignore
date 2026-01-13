@@ -1,0 +1,18 @@
+# Build output
+build/
+*.bin
+*.img
+*.iso
+*.o
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS generated files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
